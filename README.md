@@ -1,3 +1,3 @@
-# BikeDistributor
+# Swift BikeDistributor
 
-A description of this package.
+Translation of bike distributor challenge's C# code into Swift as an exercise. **NO** solutions.
